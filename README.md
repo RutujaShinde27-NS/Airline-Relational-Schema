@@ -123,26 +123,5 @@ Each table uses:
 
 ---
 
-## 🎯 Who Can Use This Project?
-
-* BCA / BSc / MCA / Engineering students
-* Data Analyst & SQL learners
-* Interview & exam preparation
-* Portfolio & GitHub projects
-
----
-
-## 📄 License
-
-This project is open-source and available for educational use.
-
----
-
-## 🙌 Author
-
-**Rutuja Shinde**
-Aspiring Data Analyst | SQL | Power BI | Python
-
----
 
 
